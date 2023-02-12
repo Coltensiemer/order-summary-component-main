@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![OverView](https://file%2B.vscode-resource.vscode-cdn.net/Users/coltensiemer/Documents/git-hub/order-summary-component-main/Screen%20Shot%202023-02-12%20at%2011.55.33%20AM.png?version%3D1676220974190)
+![OverView] (Screen%20Shot%202023-02-12%20at%2011.55.33%20AM.png)
 
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
@@ -39,6 +39,8 @@ Users should be able to:
 - Live Site URL: https://thriving-lebkuchen-86d197.netlify.app/
 
 ## My process
+
+I decided to use only HTML and css. No frames to test my speed. Since the project is simple, I avoid to use classes in my css. 
 
 ### Built with
 
